@@ -1,0 +1,15 @@
+{
+  "name": "vue-storefront-instagram-feed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Javier Villanueva <javiervd@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^2.0.1"
+  }
+}
